@@ -1,3 +1,4 @@
+https://vctwwd.github.io/2024/05/08/game-development-journal/
 https://vctwwd.github.io/2015/07/28/adv/
 https://vctwwd.github.io/2019/12/09/life-circle/
 https://vctwwd.github.io/2020/09/30/galgame3/
@@ -16,10 +17,14 @@ https://vctwwd.github.io/about/index.html
 https://vctwwd.github.io/tags/index.html
 https://vctwwd.github.io/categories/index.html
 https://vctwwd.github.io/
-https://vctwwd.github.io/tags/%E6%9D%82%E8%B0%88/
 https://vctwwd.github.io/tags/%E6%95%85%E4%BA%8B/
+https://vctwwd.github.io/tags/%E6%9D%82%E8%B0%88/
 https://vctwwd.github.io/tags/Galgame/
 https://vctwwd.github.io/tags/%E6%8E%A8%E8%8D%90/
+https://vctwwd.github.io/tags/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/
+https://vctwwd.github.io/tags/%E7%AC%94%E8%AE%B0/
+https://vctwwd.github.io/tags/%E6%97%A5%E8%AE%B0/
 https://vctwwd.github.io/tags/%E5%B0%8F%E8%AF%B4/
-https://vctwwd.github.io/categories/%E6%9D%82%E8%B0%88/
 https://vctwwd.github.io/categories/%E6%95%85%E4%BA%8B/
+https://vctwwd.github.io/categories/%E6%9D%82%E8%B0%88/
+https://vctwwd.github.io/categories/%E6%97%A5%E8%AE%B0/
