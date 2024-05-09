@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vctwwd.github.io/2015/07/28/adv/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vctwwd.github.io/2019/12/09/life-circle/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vctwwd.github.io/2020/09/30/galgame3/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vctwwd.github.io/2023/03/22/galgame2/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vctwwd.github.io/2023/10/05/sq2/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vctwwd.github.io/2023/08/21/ba/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vctwwd.github.io/2019/12/18/team/</loc>
     
     <lastmod>2024-05-09</lastmod>
@@ -117,6 +171,13 @@
   </url>
   
   <url>
+    <loc>https://vctwwd.github.io/tags/%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2024-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://vctwwd.github.io/tags/Galgame/</loc>
     <lastmod>2024-05-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,10 +191,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://vctwwd.github.io/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2024-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://vctwwd.github.io/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2024-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vctwwd.github.io/categories/%E6%95%85%E4%BA%8B/</loc>
     <lastmod>2024-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
