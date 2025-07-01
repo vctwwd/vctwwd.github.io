@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vctwwd.com.cn/</loc>
     <lastmod>2025-07-01T14:18:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://vctwwd.com.cn/post/</loc>
     <lastmod>2025-07-01T14:18:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/template/</loc>
+    <loc>https://vctwwd.com.cn/p/template/</loc>
     <lastmod>2025-07-01T14:18:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://vctwwd.com.cn/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://vctwwd.com.cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://vctwwd.com.cn/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vctwwd.com.cn/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vctwwd.com.cn/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://vctwwd.com.cn/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://vctwwd.com.cn/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://vctwwd.com.cn/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url>
 </urlset>
